@@ -1,0 +1,34 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#0B1020"/>
+  <rect x="40" y="40" width="1200" height="280" rx="28" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <circle cx="118" cy="118" r="36" fill="#2563EB"/>
+  <path d="M101 118h34M118 101v34" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <text x="178" y="116" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800">Agent Discipline</text>
+  <text x="180" y="164" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Skills for agents that should ship work, not excuses.</text>
+  <g transform="translate(180 215)">
+    <rect width="165" height="48" rx="24" fill="#1E293B" stroke="#475569"/>
+    <text x="26" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">clarify-first</text>
+  </g>
+  <g transform="translate(365 215)">
+    <rect width="145" height="48" rx="24" fill="#1E293B" stroke="#475569"/>
+    <text x="25" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">repro-first</text>
+  </g>
+  <g transform="translate(530 215)">
+    <rect width="175" height="48" rx="24" fill="#1E293B" stroke="#475569"/>
+    <text x="24" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">behavior-first</text>
+  </g>
+  <g transform="translate(725 215)">
+    <rect width="190" height="48" rx="24" fill="#1E293B" stroke="#475569"/>
+    <text x="24" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">session-handoff</text>
+  </g>
+  <g transform="translate(935 215)">
+    <rect width="165" height="48" rx="24" fill="#1E293B" stroke="#475569"/>
+    <text x="25" y="31" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">fast-operator</text>
+  </g>
+  <path d="M1030 95c52 0 94 42 94 94" stroke="#F97316" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1124 189c0 52-42 94-94 94" stroke="#16A34A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1030 283c-52 0-94-42-94-94" stroke="#2563EB" stroke-width="14" stroke-linecap="round"/>
+  <path d="M936 189c0-52 42-94 94-94" stroke="#EAB308" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="1030" cy="189" r="38" fill="#0B1020" stroke="#94A3B8" stroke-width="2"/>
+  <text x="1003" y="198" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="900">AD</text>
+</svg>
