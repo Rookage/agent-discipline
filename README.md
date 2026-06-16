@@ -19,6 +19,16 @@
   <img alt="Agent Discipline" src="https://img.shields.io/badge/agent-discipline-f97316">
 </p>
 
+<p align="center">
+  <a href="https://rookage.github.io/agent-discipline/">Landing Page</a>
+  ·
+  <a href="./docs/skill-guide.md">Skill Guide</a>
+  ·
+  <a href="./examples">Examples</a>
+  ·
+  <a href="./docs/installation.md">Install</a>
+</p>
+
 ---
 
 AI coding agents are powerful. Raw power is not discipline.
@@ -82,6 +92,12 @@ Copy-Item .\skills\* "$env:USERPROFILE\.codex\skills" -Recurse -Force
 Then restart Codex or open a new session.
 
 More detail: [Installation Guide](./docs/installation.md)
+
+## Examples
+
+- [Debugging with `repro-first`](./examples/bug-fix.md)
+- [Building with `clarify-first` + `behavior-first`](./examples/feature-build.md)
+- [Working in `fast-operator`](./examples/fast-operator.md)
 
 ## How To Call The Skills
 
@@ -165,15 +181,20 @@ agent-discipline/
 │  ├─ session-handoff/
 │  └─ fast-operator/
 ├─ docs/
+│  ├─ index.html
 │  ├─ installation.md
 │  ├─ skill-guide.md
-│  └─ philosophy.md
+│  ├─ philosophy.md
+│  └─ github-settings.md
+├─ examples/
 ├─ scripts/
 │  └─ install-codex.ps1
 ├─ .github/
 │  └─ ISSUE_TEMPLATE/
+├─ manifest.json
 ├─ ROADMAP.md
 ├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
 ├─ SECURITY.md
 ├─ LICENSE
 └─ README.md
