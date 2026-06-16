@@ -1,0 +1,6 @@
+interface:
+  display_name: "Behavior First"
+  short_description: "Ship changes with behavior-focused tests."
+  default_prompt: "Use $behavior-first to implement this change with behavior tests."
+policy:
+  allow_implicit_invocation: true

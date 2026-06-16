@@ -1,0 +1,6 @@
+interface:
+  display_name: "Session Handoff"
+  short_description: "Create a compact handoff for the next session."
+  default_prompt: "Use $session-handoff to prepare a handoff for the next agent session."
+policy:
+  allow_implicit_invocation: true
