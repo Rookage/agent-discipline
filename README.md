@@ -187,6 +187,23 @@ The current version is intentionally small. Five skills, each with one job. No p
 
 See [Roadmap](./ROADMAP.md) for planned improvements.
 
+## Suggested GitHub Topics
+
+```text
+ai-agent
+coding-agent
+codex
+agent-skills
+software-engineering
+tdd
+debugging
+bilingual
+developer-tools
+prompt-engineering
+```
+
+Full repository settings checklist: [GitHub Settings](./docs/github-settings.md)
+
 ## Credits
 
 Inspired by the broader AI engineering skills movement and the idea that agents need workflows, not just prompts.
