@@ -1,0 +1,17 @@
+{
+  "name": "agent-discipline",
+  "displayName": "Agent Discipline",
+  "description": "Practical bilingual skills that make AI coding agents more disciplined, testable, and useful in real engineering work.",
+  "skills": [
+    "clarify-first",
+    "repro-first",
+    "behavior-first",
+    "session-handoff",
+    "fast-operator"
+  ],
+  "languages": [
+    "zh-CN",
+    "en"
+  ],
+  "license": "MIT"
+}
